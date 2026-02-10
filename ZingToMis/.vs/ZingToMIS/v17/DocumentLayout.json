@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All Cylsys Project\\New Zing To Mis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A476D1-25A8-4753-B9DC-6972FAAC9E8D}|ZingToMIS\\ZingToMIS.csproj|d:\\all cylsys project\\new zing to mis\\zingtomis\\misdbprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A476D1-25A8-4753-B9DC-6972FAAC9E8D}|ZingToMIS\\ZingToMIS.csproj|solutionrelative:zingtomis\\misdbprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MISdbprocess.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\New Zing To Mis\\ZingToMIS\\MISdbprocess.cs",
+              "RelativeDocumentMoniker": "ZingToMIS\\MISdbprocess.cs",
+              "ToolTip": "D:\\All Cylsys Project\\New Zing To Mis\\ZingToMIS\\MISdbprocess.cs",
+              "RelativeToolTip": "ZingToMIS\\MISdbprocess.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwHIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:35:56.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
